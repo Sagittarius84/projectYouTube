@@ -32,7 +32,7 @@ public class Test1 {
         String adress = driver.getCurrentUrl();
         System.out.println(adress +"\nTest end");
 
-        driver.quit();
+        //driver.quit();
     }
 
 }
